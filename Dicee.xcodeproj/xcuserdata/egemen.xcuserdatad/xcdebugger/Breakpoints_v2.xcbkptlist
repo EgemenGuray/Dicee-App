@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicee/ViewController.swift"
+            timestampString = "537334355.8832901"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee.ViewController.diceImage2.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Dicee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egemen/Desktop/Academic/University%20of%20Waterloo/App%20Development/Dicee/Dicee/ViewController.swift"
+                  timestampString = "537334617.4423079"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee.ViewController.diceImage2.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Dicee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egemen/Desktop/Academic/University%20of%20Waterloo/App%20Development/Dicee/Dicee/ViewController.swift"
+                  timestampString = "537334617.446039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Dicee.ViewController"
+                  moduleName = "Dicee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egemen/Desktop/Academic/University%20of%20Waterloo/App%20Development/Dicee/Dicee/ViewController.swift"
+                  timestampString = "537334617.4478509"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "537">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Dicee.ViewController&gt;"
+                  moduleName = "Dicee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egemen/Desktop/Academic/University%20of%20Waterloo/App%20Development/Dicee/Dicee/ViewController.swift"
+                  timestampString = "537334617.449468"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "443">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
